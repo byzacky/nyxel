@@ -1,0 +1,6 @@
+{
+    "watch": ["commands", "events", "blacklistLogs"],
+    "ext": "js,json",
+    "ignore": ["node_modules"],
+    "exec": "node"
+  }
